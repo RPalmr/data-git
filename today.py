@@ -13,9 +13,9 @@ def my_name_is():
 
 def my_buddy_is():
     """
-    Get the name of my buddie's github username.
+    Get the name of my buddy's github username.
 
     Returns:
-        str: The name of my buddie's github username.
+        str: The name of my buddy's github username.
     """
     return "buddy"
